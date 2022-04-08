@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kelvin Pichinini</h1>
-<h3 align="center">Addicted to that feeling when the code just works!</h3>
+<h3 align="center">Just a guy addicted to that feeling when the code just works!</h3>
+<h3 align="center">In love with the ability to start from almost nothing and create something...</h3>
 
-- 🔭 I’m currently working on **InventoryControl**
+- 🔭 I’m currently working on **InventoryControl** personal project
 
 - 🌱 I’m currently learning **Fullstack web dev at TRYBE**
 
-- 👨‍💻 All of my projects are available at [https://kelvinpichinini.github.io/](https://kelvinpichinini.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
