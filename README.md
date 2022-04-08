@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kelvin Pichinini</h1>
 <h3 align="center">Just a guy addicted to that feeling when the code just works!</h3>
-<h3 align="center">In love with the ability to start from almost nothing and create something...</h3>
+<h3 align="center">In love with the ability to start from almost nothing and create something useful</h3>
 
 - 🔭 I’m currently working on **InventoryControl** personal project
 
