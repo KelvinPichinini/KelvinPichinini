@@ -2,10 +2,7 @@
 <h3 align="center">Just a guy addicted to that feeling when the code just works!</h3>
 <h3 align="center">In love with the ability to start from almost nothing and create something useful</h3>
 
-- 🔭 I’m currently working on **TrazMeuPedaco** personal project https://github.com/KelvinPichinini/TrazMeuPedaco
-
-- 🌱 I’m currently learning **Fullstack web dev at TRYBE**
-
+- 🌱 I’m currently learning **DATA SCIENCE at ADA TECH School**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
